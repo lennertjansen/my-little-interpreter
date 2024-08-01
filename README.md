@@ -1,2 +1,2 @@
-# My Little Interpreter (WIP)
-A simple Python interpreter, written in Python.
+# My Little Interpreter
+A simple Python interpreter, written in Python (under construction).
